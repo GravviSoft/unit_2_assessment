@@ -139,6 +139,7 @@ manager.getEmployees()
 manager.addEmployee("Dave")
 manager.addEmployee("Carl")
 console.log(manager)
+
 /*
     Call the `getEmployees` method on the
     `manager` object again to confirm 

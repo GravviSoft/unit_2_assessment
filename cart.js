@@ -36,7 +36,6 @@ const cart = [
 
 const summedPrice = cart.reduce((acc, num) => acc + num.price, 0)
 console.log(summedPrice)
-console.log(cart[0].price + cart[1].price + cart[2].price )
 
 //////////////////PROBLEM 2////////////////////
 /*  
